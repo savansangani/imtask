@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "409738336536",
+    "project_id": "imtask-91f8d",
+    "storage_bucket": "imtask-91f8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409738336536:android:58ab7e27588ac58132e66d",
+        "android_client_info": {
+          "package_name": "com.example.imtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409738336536-g2k51c2rq25kk44nnbcj039t3sojskj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChPB0uNjP0P5mJ6QOpFxLnIscwoDQPSdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409738336536-g2k51c2rq25kk44nnbcj039t3sojskj9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "409738336536-ki3f284kblvjp66g461tpleep66g2jng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.imtask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
